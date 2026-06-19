@@ -1,50 +1,55 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=200&section=header&text=Defangga%20Abypn&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Mobile%20Developer&descAlignY=55&descColor=8b949e" width="100%"/>
+# Defangga Aby Vonega
 
-</div>
+**Full-Stack Developer | Mobile Developer | Project Manager | Business Analyst**
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Defangga+%F0%9F%91%8B;Laravel+%2B+Flutter+Developer;One+Circle+Software+Development;Building+apps+from+Lampung+%F0%9F%87%AE%F0%9F%87%A9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Laravel+%2B+Filament;Flutter+%2B+Dart;One+Circle+Software+Development;Central+Lampung%2C+Indonesia)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About
 
 ```php
 <?php
 
 class Defangga {
-    public string $name     = "Defangga Abypn";
+    public string $name     = "Defangga Aby Vonega";
+    public string $role     = "Full-Stack Developer | Mobile Developer | Project Manager | Business Analyst";
     public string $company  = "One Circle Software Development";
-    public string $location = "Central Lampung, Indonesia 🇮🇩";
-    public string $website  = "https://onecirclesoftware.com/";
+    public string $location = "Central Lampung, Indonesia";
     public array  $stack    = ["Laravel", "Filament", "Flutter", "MySQL", "Dart"];
     public array  $current  = [
-        "🚀 smart-finance-rebuild  — Sistem keuangan dengan Filament",
-        "✈️ smart-avi-part-rebuild — Manajemen suku cadang pesawat",
-        "🏆 aby-lfplt              — Aplikasi turnamen & bracket",
+        "Enterprise Finance System",
+        "Aircraft Parts Management",
+        "Tournament & Bracket Platform",
     ];
-
-    public function contact(): array {
-        return [
-            "twitter" => "@onecircle24",
-            "email"   => "onecircle.24@gmail.com",
-        ];
-    }
 }
 ```
 
+- Founder and developer at One Circle Software Development
+- Built 50+ projects across web, mobile, and data science
+- Builds enterprise systems for aviation, finance, and healthcare industries
+- Based in Central Lampung, Indonesia
+
 ---
 
-## 🛠️ Tech Stack
+## Currently Learning
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-**Backend & Framework**
+**Backend**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -75,7 +80,7 @@ class Defangga {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -92,7 +97,27 @@ class Defangga {
 
 ---
 
-## 🐍 Pacman Contribution Graph
+## Trophy
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=defanggaabypn&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=defanggaabypn&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## Contribution Graph
 
 <div align="center">
 
@@ -106,34 +131,37 @@ class Defangga {
 
 ---
 
-## 🚀 Featured Projects
+## 3D Contribution
 
 <div align="center">
 
-[![smart-finance-rebuild](https://github-readme-stats.vercel.app/api/pin/?username=defanggaabypn&repo=smart-finance-rebuild&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/defanggaabypn/smart-finance-rebuild)
-[![smart-avi-part-rebuild](https://github-readme-stats.vercel.app/api/pin/?username=defanggaabypn&repo=smart-avi-part-rebuild&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/defanggaabypn/smart-avi-part-rebuild)
-[![pos-project](https://github-readme-stats.vercel.app/api/pin/?username=defanggaabypn&repo=pos-project&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/defanggaabypn/pos-project)
-[![donasi-platform](https://github-readme-stats.vercel.app/api/pin/?username=defanggaabypn&repo=donasi-platform&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/defanggaabypn/donasi-platform)
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution" width="100%"/>
 
 </div>
 
 ---
 
-## 📬 Connect With Me
+## Open Source Projects
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/onecircle24)
-[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://onecirclesoftware.com/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onecircle.24@gmail.com)
+[![church_scheduling](https://github-readme-stats.vercel.app/api/pin/?username=defanggaabypn&repo=church_scheduling&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/defanggaabypn/church_scheduling)
+[![omron](https://github-readme-stats.vercel.app/api/pin/?username=defanggaabypn&repo=omron&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/defanggaabypn/omron)
+[![rekammedis](https://github-readme-stats.vercel.app/api/pin/?username=defanggaabypn&repo=rekammedis&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/defanggaabypn/rekammedis)
+[![klasifikasi-judul-skripsi](https://github-readme-stats.vercel.app/api/pin/?username=defanggaabypn&repo=klasifikasi-judul-skripsi&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/defanggaabypn/klasifikasi-judul-skripsi)
+[![optimasi-train](https://github-readme-stats.vercel.app/api/pin/?username=defanggaabypn&repo=optimasi-train&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/defanggaabypn/optimasi-train)
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/defangga-aby-vonega)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/defanggaabypn)
 
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=defanggaabypn&color=58a6ff&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=defanggaabypn&color=58a6ff&style=flat-square&label=Profile+Views)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:0d1117&height=120&section=footer" width="100%"/>
