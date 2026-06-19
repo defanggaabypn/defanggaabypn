@@ -100,7 +100,7 @@ class Defangga {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=defanggaabypn&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=defanggaabypn&theme=dark&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
